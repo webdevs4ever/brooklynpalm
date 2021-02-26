@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Brooklyn Palm', // <title>
+  siteTitle: 'Gatsby Starter Readonly', // <title>
   manifestName: 'Readonly',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Davoria Cooper',
-  heading: "Future home of Brooklyn Palm",
+  authorName: 'Anubhav Srivastava',
+  heading: "I got reprogrammed by a rogue AI and now I'm totally cray",
   // social
   socialLinks: [
     {
