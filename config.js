@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-readonly/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Davoria Cooper',
-  heading: "Future home of Brooklyn Palm",
+  heading: "Future home of Brooklyn Palm...",
   // social
   socialLinks: [
     {
